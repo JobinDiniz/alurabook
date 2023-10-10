@@ -1,2 +1,2 @@
 # alurabook
-Projeto feito pelo curso Alura. Praticando reponsividade
+Projeto feito pelo curso Alura. Praticando reponsividade.
